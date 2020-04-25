@@ -2,7 +2,7 @@
 
 Hello! Thank you for your interest. 
 
-This repository contains the references to the projects and work presented in my resume.
+This repository contains the references to the projects and work presented in my [resume](https://github.com/raghuramshankar/resume/blob/master/r-shankar-resume-latest.pdf).
 
 # Please feel free to contact me through:
 
