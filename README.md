@@ -11,5 +11,6 @@ This repository contains the references to the projects and work presented in my
 
 # References:
 - [Design of Permanent Magnet Synchronous Machine](https://github.com/raghuramshankar/electrical-machines-design-and-analysis)
+- [Novel Multilevel Inverter](https://github.com/raghuramshankar/multilevel-inverter)
 - [Web Scraper](https://github.com/raghuramshankar/web-scraper)
 - [Online Courses](https://github.com/raghuramshankar/resume/tree/master/online-courses-certificates)
