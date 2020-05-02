@@ -10,7 +10,8 @@ This repository contains the references to the projects and work presented in my
 - [LinkedIn](https://www.linkedin.com/in/raghuramshankar)
 
 # References:
-- [Design of Permanent Magnet Synchronous Machine](https://github.com/raghuramshankar/electrical-machines-design-and-analysis)
+- [Design of Permanent Magnet Synchronous Machine](https://github.com/raghuramshankar/electrical-machines-design-and-analysis-ENM056)
+- [Design of Electric Drive Systems for Electrical Machines](https://github.com/raghuramshankar/electric-drive-systems-ENM076)
 - [Novel Multilevel Inverter](https://github.com/raghuramshankar/multilevel-inverter)
 - [Web Scraper](https://github.com/raghuramshankar/web-scraper)
 - [Online Courses](https://github.com/raghuramshankar/resume/tree/master/online-courses-certificates)
